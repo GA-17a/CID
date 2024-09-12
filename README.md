@@ -4,7 +4,7 @@
 This is a PyTorch implementation of our paper [Revisiting Contrastive Learning in Out-of-Distribution Generalization](https://).
 
 <div align="center">
-  <img src="https://github.com/GA-17a/CID/tree/main/figures/framework.pdf">
+  <img src="https://github.com/GA-17a/CID/tree/main/figures/framework.png">
 </div>
 <!-- <p align="center">
   Figure 1: Framework of different methods. (a) The baseline model is trained only with the classification task. (b) The comparative model is trained with both the classification task and the self-supervised instance discrimination task. (c) Our model is trained with both the classification task and the class-wise instance discrimination task.
@@ -34,6 +34,7 @@ Update the "--image_path" in /diversity_shift/ERM_CID.sh to your path.
 ### Run
 ```
 cd diversity_shift
+
 sh ERM_CID.sh
 ```
 
