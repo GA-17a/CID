@@ -24,7 +24,7 @@ sh IRM_CID.sh
 ### Dataset Preparation
 Download the [PACS dataset](https://arxiv.org/abs/1710.03077) from: [download_pacs](https://wjdcloud.blob.core.windows.net/dataset/PACS.zip).
 
-Update the "--image_path" in /diversity_shift/ERM_CID.sh to your path.
+Update the "--image_path" in /diversity_shift/ERM_CID.sh according to your path.
 
 ### Run
 ```
