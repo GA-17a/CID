@@ -3,7 +3,7 @@
 ## Introduction
 This is a PyTorch implementation of our paper [Revisiting Contrastive Learning in Out-of-Distribution Generalization](https://).
 
-![framework](https://github.com/GA-17a/CID/tree/main/figures/framework.png)
+![framework](./figures/framework.png)
 
 ## Correlation Shift
 ```
