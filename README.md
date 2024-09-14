@@ -5,8 +5,6 @@ This is a PyTorch implementation of our paper [Revisiting Contrastive Learning i
 
 ![framework](./figures/framework.png)
 
-![spectral_analysis](./figures/spectral_analysis.png)
-
 ## Correlation Shift
 ```
 cd correlation_shift
