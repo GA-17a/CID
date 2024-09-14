@@ -5,7 +5,7 @@ This is a PyTorch implementation of our paper [Revisiting Contrastive Learning i
 
 ![framework](./figures/framework.png)
 
-![framework](./figures/visualization.png)
+![visualization](./figures/visualization.png width="600")
 
 ## Correlation Shift
 ```
