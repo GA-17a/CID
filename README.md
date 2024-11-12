@@ -15,7 +15,7 @@ sh ERM.sh
 # IRM
 sh IRM.sh
 
-# Ours
+# Ours, require GPU memory > 24G
 sh IRM_CID.sh
 ```
 
